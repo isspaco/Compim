@@ -1,0 +1,8 @@
+C:/Users/PACO/Desktop/Embedidos/TAREA2/Core/Src/main.c:70:6:procesa_rx	8	static
+C:/Users/PACO/Desktop/Embedidos/TAREA2/Core/Src/main.c:88:5:main	8	static
+C:/Users/PACO/Desktop/Embedidos/TAREA2/Core/Src/main.c:146:6:SystemClock_Config	88	static
+C:/Users/PACO/Desktop/Embedidos/TAREA2/Core/Src/main.c:188:13:MX_TIM1_Init	32	static
+C:/Users/PACO/Desktop/Embedidos/TAREA2/Core/Src/main.c:234:13:MX_USART1_UART_Init	8	static
+C:/Users/PACO/Desktop/Embedidos/TAREA2/Core/Src/main.c:265:13:MX_DMA_Init	16	static
+C:/Users/PACO/Desktop/Embedidos/TAREA2/Core/Src/main.c:283:13:MX_GPIO_Init	40	static
+C:/Users/PACO/Desktop/Embedidos/TAREA2/Core/Src/main.c:337:6:Error_Handler	4	static,ignoring_inline_asm

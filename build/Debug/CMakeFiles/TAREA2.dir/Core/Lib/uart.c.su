@@ -1,0 +1,5 @@
+C:/Users/PACO/Desktop/Embedidos/TAREA2/Core/Lib/uart.c:13:6:uartx_write	16	static
+C:/Users/PACO/Desktop/Embedidos/TAREA2/Core/Lib/uart.c:19:6:uartx_write_text	16	static
+C:/Users/PACO/Desktop/Embedidos/TAREA2/Core/Lib/uart.c:27:6:uartx_write_buffer	24	static
+C:/Users/PACO/Desktop/Embedidos/TAREA2/Core/Lib/uart.c:33:6:uartx_read	24	static
+C:/Users/PACO/Desktop/Embedidos/TAREA2/Core/Lib/uart.c:42:6:uartx_read_text	32	static
